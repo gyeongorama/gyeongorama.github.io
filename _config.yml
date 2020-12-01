@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Gyeongorama"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A Stupid developer."
+  bio              : "A stupid developer"
   location         : "South Korea"
   email            :
   links:
